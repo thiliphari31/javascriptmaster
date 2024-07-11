@@ -23,7 +23,6 @@ player2 = {
 	score: 90
 };
 
-console.log(player2.name  + " has scored: " + player2.score);
 
 
 /* Further Adventures

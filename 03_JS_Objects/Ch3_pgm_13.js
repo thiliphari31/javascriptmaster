@@ -10,7 +10,20 @@ var location = {
     "elevation" : 47.000
   };
   
+  console.log(location.city);
+  console.log(location);
   
+var geolocation = {
+   "city"       : "London",
+   "state"      : "san",
+    "country"   : "Uk",
+    "zip"       : "973649",
+    "latitude"  : 40.223,
+    "longitude" : -123.83,
+    "elevation" : 50.000
+}
+
+console.log(geolocation);
   
   /* Further Adventures
    *

@@ -8,6 +8,17 @@ var post = {
 	body : "You will not believe where I just woke up!! Only on a comet..."
 };
 
+var post2 = {
+	id : 1,
+	title : "My Adventure",
+	author : "Robin",
+	created : "2019-05-23",
+	body : "If you Workhard You Will Win.."
+};
+
+
+console.log(post2);
+
 
 
 /* Further Adventures

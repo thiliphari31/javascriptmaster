@@ -14,6 +14,20 @@ console.log(player.name + " is in " + player.place);
 console.log(player.name + " has health " + player.health);
 console.log("Items: " + player.items);
 
+var player2;
+
+
+player2 = {
+    name: "Thilipkumar",
+    health : 24,
+    place : "The athelet",
+    item : "I achieved many medals in competition"
+};
+
+console.log(player2.name);
+console.log(player2.name + " is in " + player2.place);
+console.log(player2.name + " has health " + player2.health);
+console.log( "item:" + player2.item );
 
 
 /* Further Adventures
