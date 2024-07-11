@@ -1,7 +1,11 @@
 // Declaring a variable
 
 var score;
+var name;
+var date;
 
+
+var student;
 /* Further Adventures
  *
  * 1) Delete the semicolon at after the word score.

@@ -13,7 +13,13 @@ book2 = {
 	author : "Philip Pullman"
 };
 
+var book3;
+book3 = {
+    title : "Harrypotter",
+    author : "J. k. Rouling"
+}
 
+console.log(book3);
 
 /* Further Adventures
  *

@@ -1,6 +1,8 @@
 // Using console.log to display information
 
-console.log("Hell World!");
+console.log("Hello Java!");
+
+
 
 
 /* Further Adventures

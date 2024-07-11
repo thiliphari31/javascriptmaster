@@ -7,7 +7,8 @@ playerName = "Lionel Messi";
 locationName = "Argentina";
 
 console.log(playerName + " is in " + locationName);
-
+score = 250
+console.log("Lionel Messi has a score of 100")
 
 
 /* Further Adventures

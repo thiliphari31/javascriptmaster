@@ -11,6 +11,17 @@ book = {
 console.log(book);
 
 
+var book2;
+
+book2 = {
+    title : "The Hobbit, or There and Back Again",
+    author : "J. R. R. Tolkien",
+    published : 1937
+};
+
+console.log(book2);
+
+
 
 /* Further Adventures
  *

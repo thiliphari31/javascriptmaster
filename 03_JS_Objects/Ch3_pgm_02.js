@@ -14,7 +14,10 @@ console.log(book1Title + " by " + book1Author);
 console.log(book2Title + " by " + book2Author);
 console.log(book3Title + " by " + book3Author);
 
+var book4Title = "Harrypattor"
+var book4Author = "j. k .rouling "
 
+console.log(book4Title +" by " + book4Author);
 
 /* Further Adventures
  *

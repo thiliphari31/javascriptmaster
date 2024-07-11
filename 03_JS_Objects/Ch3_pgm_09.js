@@ -16,7 +16,13 @@ book2 = {
 console.log(book1.title + " by " + book1.author);
 console.log(book2.title + " by " + book2.author);
 
+var book3;
 
+book3 = {
+	title: "The magican",
+	author: "Robert"
+};
+console.log(book3.title + "by" + book3.author);
 
 /* Further Adventures
  *
